@@ -1,4 +1,19 @@
+
 # HoverScroll
+
+An Angular Directive to enable hover on scroll
+https://user-images.githubusercontent.com/14331629/127742590-7b2212b5-6266-467a-9e67-06eb1c06a7ee.mov
+
+
+
+### Features
+<ul>
+  <li>Use custom class for Scroll. </li>
+  <li>Custom control over enable disable X and Y axis scroll. </li>
+</ul>
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 

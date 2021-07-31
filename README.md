@@ -1,7 +1,9 @@
 
 # HoverScroll
 
-An Angular Directive to enable hover on scroll
+An Angular Directive to enable hover on scroll.
+
+
 https://user-images.githubusercontent.com/14331629/127742590-7b2212b5-6266-467a-9e67-06eb1c06a7ee.mov
 
 

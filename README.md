@@ -20,11 +20,12 @@ https://user-images.githubusercontent.com/14331629/127742590-7b2212b5-6266-467a-
   npm i ngx-mat-hover-scroll
 
 ```
-<ul>
-  
-  <li> import { NgxMatHoverScrollModule } from 'ngx-mat-hover-scroll' </li>
-  
-  </ul>
+
+```ts
+  import { NgxMatHoverScrollModule } from 'ngx-mat-hover-scroll'
+
+```
+
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.

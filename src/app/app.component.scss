@@ -1,0 +1,55 @@
+.container-list{
+  display: flex;
+  margin: 2em 4em 2em 4em;
+}
+
+.card{
+  height: 10em;
+  width: 10em;
+  background-color: #d7d8fa;
+  margin: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2em;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+.card:hover{
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+}
+.list{
+  height: 60vh;
+  width: 90vw;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+h2{
+  text-align: center;
+}
+
+.cards{
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+
+.custom-scroll::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+.custom-scroll::-webkit-scrollbar-track {
+  background: #c9c9c9;
+  border-radius: 2px;
+}
+
+.custom-scroll::-webkit-scrollbar-thumb {
+  border-radius: 6px;
+  background: rgb(112, 112, 112);
+}
+
+.custom-scroll::-webkit-scrollbar-thumb:hover {
+  background: rgb(110, 110, 110);
+}

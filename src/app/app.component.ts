@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'HoverScroll';
+   fruits: string[] = ['Apple', 'Orange', 'Banana','Mango','Cherry','Potato','Tomato','Garlic','Strawberry','Egg', 'Banana','Mango','Cherry','Potato','Tomato','Garlic','Strawberry','Egg', 'Banana','Mango','Cherry','Potato','Tomato','Garlic','Strawberry','Egg', 'Banana','Mango','Cherry','Potato','Tomato','Garlic','Strawberry','Egg', 'Banana','Mango','Cherry','Potato','Tomato','Garlic','Strawberry','Egg', 'Banana','Mango','Cherry','Potato','Tomato','Garlic','Strawberry','Egg', 'Banana','Mango','Cherry','Potato','Tomato','Garlic','Strawberry','Egg', 'Banana','Mango','Cherry','Potato','Tomato','Garlic','Strawberry','Egg'];
 }

@@ -11,6 +11,12 @@
     "sourceMap": true,
     "declaration": false,
     "downlevelIteration": true,
+    "paths": {
+      "ngx-mat-hover-scroll": [
+        "dist/ngx-mat-hover-scroll/ngx-mat-hover-scroll",
+        "dist/ngx-mat-hover-scroll"
+      ]
+    },
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,

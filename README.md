@@ -16,6 +16,8 @@ https://user-images.githubusercontent.com/14331629/127742590-7b2212b5-6266-467a-
 
 ### Setup
 
+https://www.npmjs.com/package/ngx-mat-hover-scroll
+
 ```ts
   npm i ngx-mat-hover-scroll
 
